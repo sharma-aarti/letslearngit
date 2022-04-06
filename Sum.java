@@ -3,6 +3,6 @@ public class Sum {
         int a =3;
         int b =9;
         int sum = a+b;
-        System.out.println(sum);
+        System.out.println("the sum is" + sum);
     }
 }
